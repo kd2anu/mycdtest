@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hell Oooh World!"
+echo "HellO Oooh World!"
