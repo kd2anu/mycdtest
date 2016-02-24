@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello World!"
-echo "1234"
+echo "1"
